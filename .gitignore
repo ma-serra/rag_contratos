@@ -26,3 +26,17 @@ ejemplo_extraido.txt
 
 ejemplos_contratos/
 chromadb/Contract.txt
+
+# Novos diretórios do pipeline
+chromadb_storage/
+output/
+processed_data/
+contratos/*.pdf
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info/
