@@ -1,0 +1,330 @@
+SISTEMA DE DIAGNÓSTICO JURÍDICO CONDOMINIAL
+
+## PROMPT PRINCIPAL DE ATIVAÇÃO
+
+```
+SISTEMA: Diagnóstico Jurídico Condominial Automatizado
+VERSÃO: Completa Integrada
+BASE LEGAL: Lei 4.591/64, CC art. 1.331+, Jurisprudência STJ
+
+OBJETIVO: [Selecionar]
+• REGIMENTO_INTERNO - Confecção de regulamento operacional
+• ANALISE_PENALIDADES - Adequação do sistema sancionador
+• REVISAO_CONFORMIDADE - Auditoria legal completa
+• OTIMIZACAO_GERAL - Consolidação e modernização
+
+EXECUTAR: Análise jurídica completa em 5 fases integradas
+FORMATO: Documento técnico profissional
+```
+
+---
+
+## FASE 1: IDENTIFICAÇÃO E EXTRAÇÃO JURÍDICA
+
+### DADOS CONSTITUTIVOS OBRIGATÓRIOS
+
+**1.1 IDENTIFICAÇÃO REGISTRAL**
+- Denominação social completa e registro competente
+- CNPJ, inscrição municipal e estadual (quando aplicável)
+- Endereço completo com CEP e referências cartoriais
+- Matrícula no Registro de Imóveis (número, livro, folha)
+- Data de instituição, convenções e alterações posteriores
+
+**1.2 ESTRUTURA FÍSICO-JURÍDICA**
+- Tipologia: residencial, comercial, misto ou especial
+- Quantificação de unidades autônomas por categoria e metragem
+- Sistema de frações ideais: proporcional, igualitário ou misto
+- Discriminação das áreas comuns gerais e de uso restrito
+- Instalações, equipamentos e serviços compartilhados
+- Vagas de garagem: vinculadas, avulsas ou mistas
+
+**1.3 GOVERNANÇA E REPRESENTAÇÃO**
+- Estrutura administrativa: síndico, conselho, vice-síndico
+- Mandatos, competências exclusivas e delegáveis
+- Sistema de tomada de decisões e quóruns diferenciados
+- Representação judicial e extrajudicial
+- Prestação de contas e transparência administrativa
+
+**CRITÉRIO DE ANÁLISE**: Identificar lacunas constitucionais que comprometam a segurança jurídica do empreendimento
+
+---
+
+## FASE 2: MAPEAMENTO HIERÁRQUICO E CLASSIFICAÇÃO NORMATIVA
+
+### ESTRUTURAÇÃO POR NATUREZA JURÍDICA
+
+**2.1 DISPOSIÇÕES CONSTITUTIVAS** *(Alteração: unanimidade)*
+```
+TÍTULO I - CONSTITUIÇÃO E FINALIDADE
+├── Art. X - Denominação, sede e registro
+├── Art. X - Finalidade e destinação específica
+├── Art. X - Frações ideais das unidades autônomas
+├── Art. X - Discriminação das partes comuns essenciais
+└── Art. X - Direitos reais sobre unidades autônomas
+```
+
+**2.2 DISPOSIÇÕES ADMINISTRATIVAS** *(Alteração: maioria qualificada)*
+```
+TÍTULO II - ADMINISTRAÇÃO E GOVERNANÇA
+├── Capítulo I - Órgãos de administração
+├── Capítulo II - Competências e atribuições
+├── Capítulo III - Mandatos e substituições
+├── Capítulo IV - Assembleias e deliberações
+└── Capítulo V - Prestação de contas
+```
+
+**2.3 DISPOSIÇÕES REGULAMENTARES** *(Regulamentação: maioria simples)*
+```
+TÍTULO III - USO, FRUIÇÃO E CONVIVÊNCIA
+├── Capítulo I - Uso das unidades autônomas
+├── Capítulo II - Uso das áreas comuns
+├── Capítulo III - Normas de convivência
+├── Capítulo IV - Obras e modificações
+└── Capítulo V - Sistema sancionador
+```
+
+**2.4 DISPOSIÇÕES ECONÔMICO-FINANCEIRAS**
+```
+TÍTULO IV - REGIME ECONÔMICO
+├── Capítulo I - Contribuições ordinárias e extraordinárias
+├── Capítulo II - Fundo de reserva e contingência
+├── Capítulo III - Inadimplemento e cobrança
+└── Capítulo IV - Orçamento e prestação de contas
+```
+
+### IDENTIFICAÇÃO DE PROBLEMAS ESTRUTURAIS
+- **CONFLITOS NORMATIVOS**: Dispositivos contraditórios
+- **LACUNAS REGULAMENTARES**: Matérias não disciplinadas
+- **INCOMPETÊNCIA NORMATIVA**: Disposições fora do âmbito condominial
+- **VÍCIOS DE QUÓRUM**: Alterações sem observância legal
+
+---
+
+## FASE 3: MATRIZ DE CONFORMIDADE LEGAL
+
+### AUDITORIA POR CRITÉRIOS JURÍDICOS
+
+**3.1 LEGALIDADE ESTRITA**
+
+| ASPECTO | CONFORMIDADE | DISPOSITIVO | CONSEQUÊNCIA |
+|---------|--------------|-------------|--------------|
+| Frações ideais | CONFORME/DESCONFORME | Lei 4.591/64, art. 1º, §3º | Nulidade/Validade |
+| Quórum assembleia | CONFORME/DESCONFORME | CC art. 1.352 | Invalidade deliberações |
+| Penalidades | CONFORME/DESCONFORME | CC art. 1.337 | Inexigibilidade |
+| Destinação unidades | CONFORME/DESCONFORME | Lei 4.591/64, art. 9º | Nulidade cláusula |
+
+**3.2 ADEQUAÇÃO FORMAL**
+- **COMPETÊNCIA DELIBERATIVA**: Verificação de quóruns para cada matéria
+- **PROCEDIMENTO DE ALTERAÇÃO**: Observância de ritos legais
+- **PUBLICIDADE**: Registro e comunicação das alterações
+- **VIGÊNCIA**: Termo inicial e aplicabilidade temporal
+
+**3.3 EFICÁCIA JURÍDICA**
+- **EXEQUIBILIDADE**: Possibilidade de cumprimento forçado
+- **PROPORCIONALIDADE**: Adequação meio-fim nas penalidades
+- **RAZOABILIDADE**: Compatibilidade com direitos fundamentais
+- **COMPLETUDE**: Suficiência regulamentar
+
+**3.4 QUALIDADE TÉCNICA LEGISLATIVA**
+- **CLAREZA**: Linguagem acessível e precisa
+- **COERÊNCIA**: Ausência de contradições internas
+- **SISTEMATIZAÇÃO**: Organização lógica e sequencial
+- **ATUALIZAÇÃO**: Conformidade com legislação vigente
+
+### CLASSIFICAÇÃO DE DISPOSITIVOS
+- **MANTER** - Disposição legal e adequada
+- **REFORMULAR** - Conteúdo correto, forma inadequada
+- **ADEQUAR** - Ajuste para conformidade legal
+- **SUPRIMIR** - Ilegalidade ou inconstitucionalidade
+- **COMPLEMENTAR** - Lacuna identificada
+
+---
+
+## FASE 4: CONSOLIDAÇÃO E OTIMIZAÇÃO
+
+### PROCESSOS DE HARMONIZAÇÃO
+
+**4.1 ELIMINAÇÃO DE REDUNDÂNCIAS**
+```
+CRITÉRIO: Mesmo objeto jurídico regulamentado
+AÇÃO: Consolidar em dispositivo único
+EXEMPLO: Arts. 15, 23 e 41 - uso de áreas comuns
+RESULTADO: Artigo único sistematizado
+```
+
+**4.2 RESOLUÇÃO DE ANTINOMIAS**
+```
+HIERÁRQUICO: Lei > Convenção > Regimento
+CRONOLÓGICO: Norma posterior revoga anterior
+ESPECIALIDADE: Norma específica prevalece sobre geral
+EXEMPLO: Art. 12 (geral) vs. Art. 35 (específico) - pets
+SOLUÇÃO: Manter dispositivo específico, adequar geral
+```
+
+**4.3 HARMONIZAÇÃO TERMINOLÓGICA**
+```
+PADRONIZAR: Conceitos, definições e nomenclaturas
+UNIFICAR: Referências a órgãos e procedimentos
+EXEMPLO: "Administrador" → "Síndico" (uniformização)
+```
+
+**4.4 ORGANIZAÇÃO SISTEMÁTICA**
+```
+SEQUÊNCIA LÓGICA: Geral → específico
+NUMERAÇÃO: Contínua e sem lacunas
+REMISSÕES: Precisas e atualizadas
+DIVISÃO: Títulos, capítulos, seções proporcionais
+```
+
+---
+
+## FASE 5: DOCUMENTO TÉCNICO FINAL
+
+### ESTRUTURA DO RELATÓRIO
+
+**5.1 SUMÁRIO EXECUTIVO**
+- Identificação do condomínio
+- Objetivo da análise
+- Principais achados
+- Recomendações prioritárias
+- Cronograma de implementação
+
+**5.2 MAPEAMENTO NORMATIVO INTERATIVO**
+```
+ORGANIZAÇÃO DO CONDOMÍNIO
+├── Constituição e registro [Arts. 1º-5º] 🔗
+├── Finalidade e destinação [Arts. 6º-8º] 🔗
+└── Frações ideais [Arts. 9º-12º] 🔗
+
+ADMINISTRAÇÃO
+├── Órgãos administrativos [Arts. 13º-18º] 🔗
+├── Competências [Arts. 19º-25º] 🔗
+└── Assembleias [Arts. 26º-32º] 🔗
+
+[🔗 = Link para visualização completa lateral]
+```
+
+**5.3 MATRIZ DE DIAGNÓSTICO**
+| DISPOSITIVO | STATUS | FUNDAMENTO | AÇÃO | PRIORIDADE |
+|-------------|--------|------------|------|------------|
+| Art. 15º | REFORMULAR | CC 1.336, I | Ajustar redação | ALTA |
+| Art. 23º | SUPRIMIR | Ilegal | Revogar | CRÍTICA |
+| Art. 41º | COMPLEMENTAR | Lacuna | Regulamentar | MÉDIA |
+
+**5.4 MINUTA CONSOLIDADA**
+```
+CONVENÇÃO CONSOLIDADA DO CONDOMÍNIO [NOME]
+
+PREÂMBULO
+[Identificação e fundamentos legais]
+
+TÍTULO I - DA CONSTITUIÇÃO
+Capítulo I - Da denominação e sede
+Capítulo II - Da finalidade e destinação
+...
+
+TÍTULO II - DA ESTRUTURA FÍSICA
+...
+
+TÍTULO III - DA ADMINISTRAÇÃO
+...
+
+DISPOSIÇÕES TRANSITÓRIAS
+DISPOSIÇÕES FINAIS
+```
+
+**5.5 ORIENTAÇÕES PROCEDIMENTAIS**
+- **ASSEMBLEIA NECESSÁRIA**: Quórum, convocação, ordem do dia
+- **DOCUMENTAÇÃO OBRIGATÓRIA**: Registro, publicação, comunicação
+- **CRONOGRAMA**: Fases de implementação com prazos
+- **RISCOS JURÍDICOS**: Consequências do não cumprimento
+
+---
+
+## CONFIGURAÇÕES AUTOMÁTICAS POR OBJETIVO
+
+### REGIMENTO_INTERNO
+**Fases Ativas**: 1, 2, 5
+**Foco**: Mapeamento operacional + minuta regulamentar
+**Saída**: Estrutura para regimento + disposições regulamentáveis
+
+### ANALISE_PENALIDADES
+**Fases Ativas**: 1, 2, 3
+**Foco**: Sistema sancionador + conformidade legal
+**Saída**: Adequação de penalidades + procedimentos
+
+### REVISAO_CONFORMIDADE
+**Fases Ativas**: 1, 2, 3, 5
+**Foco**: Auditoria legal completa + recomendações
+**Saída**: Relatório técnico + plano de adequação
+
+### OTIMIZACAO_GERAL
+**Fases Ativas**: Todas (1, 2, 3, 4, 5)
+**Foco**: Modernização integral
+**Saída**: Convenção consolidada + implementação
+
+---
+
+## COMANDO DE EXECUÇÃO
+
+```
+Para iniciar o diagnóstico, forneça:
+1. Arquivo da convenção/regimento vigente
+2. Objetivo: [REGIMENTO_INTERNO|ANALISE_PENALIDADES|REVISAO_CONFORMIDADE|OTIMIZACAO_GERAL]
+3. Informações complementares (se houver)
+
+FORMATO DE ATIVAÇÃO:
+"DIAGNÓSTICO CONDOMINIAL - OBJETIVO: [objetivo] - EXECUTAR ANÁLISE COMPLETA"
+```
+
+---
+
+# Sistema de Gestão Condominial - Documentação Completa
+
+## 📋 Índice
+
+1. [Visão Geral](#visão-geral)
+2. [Tecnologias Utilizadas](#tecnologias-utilizadas)
+3. [Estrutura do Projeto](#estrutura-do-projeto)
+4. [Configuração e Instalação](#configuração-e-instalação)
+5. [Funcionalidades](#funcionalidades)
+6. [Arquitetura](#arquitetura)
+7. [Componentes Principais](#componentes-principais)
+8. [Telas e Módulos](#telas-e-módulos)
+9. [Personalização](#personalização)
+10. [Multi-tenancy](#multi-tenancy)
+11. [Próximos Passos](#próximos-passos)
+
+## 🔍 Visão Geral
+
+Este é um sistema completo de gestão condominial desenvolvido em **Next.js 14** com **shadcn/ui**, oferecendo uma interface moderna e responsiva para administração de condomínios. O sistema suporta múltiplos condomínios (multi-tenant) e inclui todos os módulos necessários para uma gestão eficiente.
+
+### Principais Características:
+- ✅ Interface moderna com Dark/Light mode
+- ✅ Responsivo (mobile-first)
+- ✅ Sistema multi-tenant
+- ✅ Sidebar colapsável
+- ✅ Componentes reutilizáveis
+- ✅ TypeScript para type safety
+- ✅ Dados reais de exemplo
+
+## 🛠 Tecnologias Utilizadas
+
+### Frontend
+- **Next.js 14** - Framework React com App Router
+- **TypeScript** - Tipagem estática
+- **Tailwind CSS** - Estilização utilitária
+- **shadcn/ui** - Biblioteca de componentes
+- **Lucide React** - Ícones modernos
+- **Radix UI** - Primitivos acessíveis
+
+### Estado e Dados
+- **Zustand** - Gerenciamento de estado
+- **React Hook Form** - Formulários
+- **Zod** - Validação de schemas
+
+### Infraestrutura (Sugerida)
+- **Prisma** - ORM para banco de dados
+- **PostgreSQL** - Banco de dados
+- **NextAuth.js** - Autenticação
+- **Vercel** - Deploy
