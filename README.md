@@ -1,8 +1,24 @@
-# 📄 RAG - Extracción de Datos de Contratos de Alquiler
+# 📄 RAG - Sistema de Análisis de Documentos Jurídicos
 
-Sistema inteligente de extracción de datos de contratos de alquiler utilizando **Claude AI** y **ChromaDB**. Esta prueba de concepto (PoC) demuestra cómo extraer información estructurada de contratos mediante técnicas de RAG (Retrieval Augmented Generation).
+Sistema inteligente de análisis de documentos jurídicos utilizando **Claude AI** y **ChromaDB**. Implementa técnicas de RAG (Retrieval Augmented Generation) para extracción estructurada de información.
 
+## 🎯 Dos Sistemas Disponibles:
+
+### 1. **Extracción de Contratos de Alquiler** (Original)
+Extracción simple de datos de contratos de arrendamiento.
 > 🚀 **¿Primera vez aquí?** Lee la [Guía Rápida de 3 Minutos](QUICKSTART.md)
+
+### 2. **Diagnóstico Jurídico Condominial** (Nuevo) 🆕
+Sistema RAG completo para análisis jurídico de condomínios.
+> 🏢 **Sistema avanzado:** [Documentación Completa del Sistema de Diagnóstico](DIAGNOSTICO_README.md)
+
+**Características del Sistema de Diagnóstico:**
+- ✅ Análisis de múltiples tipos de documentos (convenções, normas, atas, contratos)
+- ✅ Chunking inteligente con ChromaDB
+- ✅ Diagnóstico jurídico en 5 fases
+- ✅ Búsqueda semántica (RAG)
+- ✅ Identificación automática de no conformidades
+- ✅ Relatórios estructurados en JSON
 
 ## 🎯 ¿Qué hace este proyecto?
 
